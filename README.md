@@ -13,3 +13,4 @@ After Pages is enabled, open:
 https://USERNAME.github.io/app-ads.txt
 ```
 Replace `USERNAME` with your GitHub username.
+“update”
